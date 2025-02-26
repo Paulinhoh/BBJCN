@@ -1,4 +1,4 @@
-package edu.paulinhoh.javabasico;
+package edu.paulinhoh.javabasico.sintaxe;
 public class Introducao {
     
     @SuppressWarnings("unused") // esta suprimindo o erre de variavel não utilizada do metodo main

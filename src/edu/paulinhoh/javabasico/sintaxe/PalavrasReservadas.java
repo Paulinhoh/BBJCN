@@ -1,4 +1,4 @@
-package edu.paulinhoh.javabasico;
+package edu.paulinhoh.javabasico.sintaxe;
 
 public class PalavrasReservadas {
     // Controle de pacotes:

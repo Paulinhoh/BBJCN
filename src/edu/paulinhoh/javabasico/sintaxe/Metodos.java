@@ -1,6 +1,6 @@
-package edu.paulinhoh.javabasico;
+package edu.paulinhoh.javabasico.sintaxe;
 
-import edu.paulinhoh.javabasico.exemplos.SmartTv;
+import edu.paulinhoh.javabasico.sintaxe.exemplos.SmartTv;
 
 public class Metodos {
     public static void main(String[] args) {

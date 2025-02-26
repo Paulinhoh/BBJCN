@@ -1,4 +1,4 @@
-package edu.paulinhoh.javabasico.exemplos;
+package edu.paulinhoh.javabasico.sintaxe.exemplos;
 
 public class AboutMeArgs {
     public static void main(String[] args) {

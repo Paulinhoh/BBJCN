@@ -1,4 +1,4 @@
-package edu.paulinhoh.javabasico.exemplos;
+package edu.paulinhoh.javabasico.sintaxe.exemplos;
 
 import java.util.Locale;
 import java.util.Scanner;

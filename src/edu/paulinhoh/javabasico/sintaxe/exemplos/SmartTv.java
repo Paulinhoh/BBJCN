@@ -1,4 +1,4 @@
-package edu.paulinhoh.javabasico.exemplos;
+package edu.paulinhoh.javabasico.sintaxe.exemplos;
 
 public class SmartTv {
     // variaveis de classe (disponiveis em todos os metodos da classe)

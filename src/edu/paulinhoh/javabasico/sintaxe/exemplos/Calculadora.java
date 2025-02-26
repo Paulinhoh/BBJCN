@@ -10,7 +10,7 @@
  * @since 25/02/2025
  */
 
-package edu.paulinhoh.javabasico.exemplos;
+package edu.paulinhoh.javabasico.sintaxe.exemplos;
 
 public class Calculadora {
     /**
