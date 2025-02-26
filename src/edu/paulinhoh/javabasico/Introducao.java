@@ -1,5 +1,5 @@
 package edu.paulinhoh.javabasico;
-public class MinhaClasse {
+public class Introducao {
     
     @SuppressWarnings("unused") // esta suprimindo o erre de variavel não utilizada do metodo main
     public static void main(String[] args) {

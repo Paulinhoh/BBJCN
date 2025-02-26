@@ -1,4 +1,4 @@
-package edu.paulinhoh.javabasico;
+package edu.paulinhoh.javabasico.exemplos;
 
 public class BoletimEstudantil {
     public static void main(String[] args) {
