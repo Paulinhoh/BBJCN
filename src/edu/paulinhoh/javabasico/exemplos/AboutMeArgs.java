@@ -1,6 +1,6 @@
 package edu.paulinhoh.javabasico.exemplos;
 
-public class AboutMe {
+public class AboutMeArgs {
     public static void main(String[] args) {
         String nome = args[0];
         String sobrenome = args[1];

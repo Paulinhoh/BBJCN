@@ -3,7 +3,7 @@ package edu.paulinhoh.javabasico.exemplos;
 import java.util.Locale;
 import java.util.Scanner;
 
-public class AboutMe2 {
+public class AboutMeTerminal {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in).useLocale(Locale.US);
 
