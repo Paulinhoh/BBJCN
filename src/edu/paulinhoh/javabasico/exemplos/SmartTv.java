@@ -1,6 +1,7 @@
 package edu.paulinhoh.javabasico.exemplos;
 
 public class SmartTv {
+    // variaveis de classe (disponiveis em todos os metodos da classe)
     public boolean ligada = false;
     public int canal = 1;
     public int volume = 25;
@@ -33,7 +34,7 @@ public class SmartTv {
         canal--;
     }
 
-    public void mudarCanal(int novoCanal) {
+    public void mudarCanal(int novoCanal) { //novoCanal variavel local do metodo
         canal = novoCanal;
     }
 }
